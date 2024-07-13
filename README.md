@@ -3,7 +3,7 @@
 <h2>👨‍💻 Artificial Intelligence Projects:</h2>
 
 - <b>Let's Build GPT from Scratch (Andrej Karpathy)</b>
-  - [Building LLM](https://github.com/narz0001/LLM-From-Scratch)
+  - [Building LLM](https://github.com/narz0001/Let-s-build-LLM-from-Scratch--Andrej-Karpathy-)
 - <b>More to Come, The Chef is Cooking!</b>
  
 <h2>👨‍💻 Machine Learning Projects:</h2>
